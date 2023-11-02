@@ -1,0 +1,23 @@
+[user]
+	name = Almaz
+	email = 149729678+txedax@users.noreply.github.com
+	# signingkey =
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
+[gpg]
+	# program = gpg
+[commit]
+	# gpgsign = true
+[branch]
+	autosetuprebase = always
+	autosetupmerge = always
+[push]
+	autoSetupRemote = true
+[color]
+	ui = true
+[fetch]
+	prune = true
+[diff]
+	colorMoved = zebra
